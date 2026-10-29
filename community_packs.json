@@ -1,10 +1,16 @@
 {
   "packs": {
-    "PD_Ava_ex_machina_cc-by.zip": {
-      "descr": "Punk Duck: Ava Ex Machina Android Mesh (CC0 Release Archive)",
-      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/PD_Ava_ex_machina_cc-by.zip",
+    "crude_kit_CC0.zip": {
+      "descr": "Joel Palmius Crude Clothing Kit for Creators (CC0 Release Archive)",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/crude_kit_CCO.zip",
       "base": "*",
-      "size": 12.9
+      "size": 5.25
+       },
+      "mh_CC0.zip": {
+      "descr": "makehuman legacy system asset kit",
+      "url": Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/mh_CCO.zip",
+      "base": "*",
+      "size": 12.34
     }
   }
 }
