@@ -5,12 +5,13 @@
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/crude_kit_CCO.zip",
       "base": "*",
       "size": 5.25
-       },
-      "mh_CC0.zip": {
+    },
+    "mh_CC0.zip": {
       "descr": "makehuman legacy system asset kit",
-      "url": Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/mh_CCO.zip",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/mh_CCO.zip",
       "base": "*",
       "size": 12.34
     }
   }
 }
+
