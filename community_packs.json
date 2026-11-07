@@ -19,7 +19,7 @@
     "common-elvs_skyboxes.zip": {
       "descr": "Elvs Skybox Bundle 1(CC0 Release Archive)",
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/common-elvs_skyboxes.zip",
-      "thumb": "*",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/skybox_demo.png",
       "base": "common",
       "type": "skybox",
       "size": 133.0
@@ -27,8 +27,8 @@
       "common-floors_CC0.zip": {
       "descr": "MH2 Floor Bundle 1 (CC0 Release Archive)",
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/common-floors_CC0.zip",
-      "thumb": "*",
-      "base": "*",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/floor_demo.png",
+      "base": "common",
       "type": "floor",   
       "size": 3.73
     }
