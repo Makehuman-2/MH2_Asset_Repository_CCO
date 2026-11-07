@@ -5,7 +5,7 @@
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/crude_kit_CC0.zip",
       "base": "common",
       "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/crude_demo.png",
-      "type": "clothes"
+      "type": "clothes",
       "size": 5.25
     },
     "mh_system_CC0.zip": {
@@ -19,7 +19,7 @@
     "common-elvs_skyboxes.zip": {
       "descr": "Elvs Skybox Bundle 1(CC0 Release Archive)",
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/common-elvs_skyboxes.zip",
-      "thumb": "*"
+      "thumb": "*",
       "base": "common",
       "type": "skybox",
       "size": 133.0
@@ -27,7 +27,7 @@
       "common-floors_CC0.zip": {
       "descr": "MH2 Floor Bundle 1 (CC0 Release Archive)",
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/common-floors_CC0.zip",
-      "thumb": "*"
+      "thumb": "*",
       "base": "*",
       "type": "floor",   
       "size": 3.73
