@@ -3,25 +3,33 @@
     "crude_kit_CC0.zip": {
       "descr": "Joel Palmius Crude Clothing Kit for Creators (CC0 Release Archive)",
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/crude_kit_CC0.zip",
-      "base": "*",
+      "base": "common",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/crude_demo.png",
+      "type": "clothes"
       "size": 5.25
     },
     "mh_system_CC0.zip": {
       "descr": "makehuman legacy system asset kit",
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/mh_system_CC0.zip",
-      "base": "*",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/system_demo1.png",
+      "base": "hm08",
+      "type": "multiple",
       "size": 405.0
     },
     "common-elvs_skyboxes.zip": {
       "descr": "Elvs Skybox Bundle 1(CC0 Release Archive)",
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/common-elvs_skyboxes.zip",
-      "base": "*",
+      "thumb": "*"
+      "base": "common",
+      "type": "skybox",
       "size": 133.0
     },
       "common-floors_CC0.zip": {
       "descr": "MH2 Floor Bundle 1 (CC0 Release Archive)",
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/common-floors_CC0.zip",
+      "thumb": "*"
       "base": "*",
+      "type": "floor",   
       "size": 3.73
     }
   }
