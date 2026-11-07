@@ -31,6 +31,14 @@
       "base": "common",
       "type": "floor",   
       "size": 3.73
+    },
+    "RP_Viking_set_CC0.zip": {
+      "descr": "The Viking Gear Set for male models by Rehman Polanski (CC0 Release Archive)",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/RP_Viking_set_CC0.zip",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/viking_set_demo.png",
+      "base": "hm08",
+      "type": ["clothes","hair"],   
+      "size": 20.8
     }
   }
 }
