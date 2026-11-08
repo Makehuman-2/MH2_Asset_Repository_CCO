@@ -39,6 +39,14 @@
       "base": "hm08",
       "type": ["clothes","hair","eyes","eyebrows"],   
       "size": 20.8
+    },
+    "hm08-anatomically_correct_skins_CC0.zip": {
+      "descr": "A large bundle of adult skins that are anatomically correct/complete",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/hm08-anatomically_correct_skins_CC0.zip",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/an_correct_skin_demo.png",
+      "base": "hm08",
+      "type": "skins",   
+      "size": 216.0 
     }
   }
 }
