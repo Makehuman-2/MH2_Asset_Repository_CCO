@@ -3,7 +3,7 @@
     "crude_kit_CC0.zip": {
       "descr": "Joel Palmius Crude Clothing Kit for Creators (CC0 Release Archive)",
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/crude_kit_CC0.zip",
-      "base": "common",
+      "base": "hm08",
       "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/crude_demo.png",
       "type": "clothes",
       "size": 5.25
@@ -13,7 +13,7 @@
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/mh_system_CC0.zip",
       "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/system_demo1.png",
       "base": "hm08",
-      "type": "multiple",
+      "type": ["clothes", "hair", "eyes", "eyebrows", "eyelashes", "skins", "teeth", "tongue", "rigs"],
       "size": 405.0
     },
     "common-elvs_skyboxes.zip": {
@@ -37,7 +37,7 @@
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/RP_Viking_set_CC0.zip",
       "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/viking_set_demo.png",
       "base": "hm08",
-      "type": ["clothes","hair"],   
+      "type": ["clothes","hair","eyes","eyebrows"],   
       "size": 20.8
     }
   }
