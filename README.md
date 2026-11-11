@@ -3,7 +3,11 @@ A repository of Makehuman Community and official Assets. This shall serve as a l
 
 # The Contents Thusfar:
 
-- The Crude Kit
-- MH System Assets Master Pack
-- Elvs Skyboxes pack 1
-- Floors pack 1
+- The Crude Kit for Builders acts as a starter templates kit.
+- MH System Assets Master Pack, the legacy original Makehuman assets.
+- Elvs Skyboxes pack 1 for use inside MH2
+- Floors pack 1 for use inside MH2
+- RP's Viking set for Male Models.
+- Mindfronts body pk of brows, lashes, teeth and nails.
+- MH1 and 2 rigs set
+- The anatomically correct skins set 1.
