@@ -55,6 +55,14 @@
       "base": "hm08",
       "type": "rigs",   
       "size": 4.24 
+    },
+    "hm08-Mindfronts_body_pk_CC0.zip": {
+      "descr": "A bundle of body part assets from Mindfront containing, teeth, nails, lashes and brows",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/hm08-Mindfronts_body_pk_CC0.zip",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/mind_bodypack_demo.png",
+      "base": "hm08",
+      "type": ["eyelashes","teeth","nails","eyebrows"],   
+      "size": 47.2 
     }
   }
 }
