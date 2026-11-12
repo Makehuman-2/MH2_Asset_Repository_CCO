@@ -1,16 +1,16 @@
 {
   "packs": {
-    "crude_kit_CC0.zip": {
+    "legacy-crude_kit_CC0.zip": {
       "descr": "Joel Palmius Crude Clothing Kit for Creators (CC0 Release Archive)",
-      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/crude_kit_CC0.zip",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy-crude_kit_CC0.zip",
       "base": "hm08",
       "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/crude_demo.png",
       "type": "clothes",
       "size": 5.25
     },
-    "mh_system_CC0.zip": {
+    "legacy-mh_system_CC0.zip": {
       "descr": "makehuman legacy system asset kit",
-      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/mh_system_CC0.zip",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy-mh_system_CC0.zip",
       "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/system_demo1.png",
       "base": "hm08",
       "type": ["clothes", "hair", "eyes", "eyebrows", "eyelashes", "skins", "teeth", "tongue", "rigs"],
@@ -32,37 +32,53 @@
       "type": "floor",   
       "size": 3.73
     },
-    "RP_Viking_set_CC0.zip": {
+    "legacy-RP_Viking_set_CC0.zip": {
       "descr": "The Viking Gear Set for male models by Rehman Polanski (CC0 Release Archive)",
-      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/RP_Viking_set_CC0.zip",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy-RP_Viking_set_CC0.zip",
       "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/viking_set_demo.png",
       "base": "hm08",
       "type": ["clothes","hair","eyes","eyebrows"],   
       "size": 20.8
     },
-    "hm08-anatomically_correct_skins_CC0.zip": {
+    "legacy-anatomically_correct_skins_CC0.zip": {
       "descr": "A large bundle of adult skins that are anatomically correct/complete",
-      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/hm08-anatomically_correct_skins_CC0.zip",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy-anatomically_correct_skins_CC0.zip",
       "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/an_correct_skin_demo.png",
       "base": "hm08",
       "type": "skins",   
       "size": 216.0 
     },
-    "hm08-MH1_and_2_rigs_CC0.zip": {
+    "legacy-MH1_and_2_rigs_CC0.zip": {
       "descr": "A bundle of skeletal rigs from the MH1 and 2 community",
-      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/hm08-MH1_and_2_rigs_CC0.zip",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy-MH1_and_2_rigs_CC0.zip",
       "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/rigs_demo.png",
       "base": "hm08",
       "type": "rigs",   
       "size": 4.24 
     },
-    "hm08-Mindfronts_body_pk_CC0.zip": {
+    "legacy-Mindfronts_body_pk_CC0.zip": {
       "descr": "A bundle of body part assets from Mindfront containing, teeth, nails, lashes and brows",
-      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/hm08-Mindfronts_body_pk_CC0.zip",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy-Mindfronts_body_pk_CC0.zip",
       "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/mind_bodypack_demo.png",
       "base": "hm08",
       "type": ["eyelashes","teeth","nails","eyebrows"],   
       "size": 47.2 
+    },
+    "legacy-pinup_erotica_pole_poses_CC0.zip": {
+      "descr": "A bundle of erotic, pinup and pole dancing poses",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy-pinup_erotica_pole_poses_CC0.zip",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/erotic_poses_demo.png",
+      "base": "hm08",
+      "type": "poses",   
+      "size": 0.5 
+    },
+    "hm08-crude_kit_CC0.zip": {
+      "descr": "Joel Palmius Crude Clothing Kit for Creators (CC0 Release Archive)Now updated with modern changes by Punkduck, ty",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/hm08-crude_kit_CC0.zip",
+      "base": "hm08",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/crude_demo.png",
+      "type": "clothes",
+      "size": 5.32
     }
   }
 }
