@@ -3,11 +3,15 @@ A repository of Makehuman Community and official Assets. This shall serve as a l
 
 # The Contents Thusfar:
 
-- The Crude Kit for Builders acts as a starter templates kit.
+- The Crude Kit for Builders acts as a starter templates kit.(Legacy and updated versions).
 - MH System Assets Master Pack, the legacy original Makehuman assets.
 - Elvs Skyboxes pack 1 for use inside MH2
 - Floors pack 1 for use inside MH2
 - RP's Viking set for Male Models.
 - Mindfronts body pk of brows, lashes, teeth and nails.
-- MH1 and 2 rigs set
+- MH 1 and 2 rigs set
 - The anatomically correct skins set 1.
+- Legacy Pinup poses pack with erotica & pole dances.
+- Legacy Proxy Mesh set
+- Legacy Litsphere set
+- Legacy Superhero pose pack
