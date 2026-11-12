@@ -79,6 +79,30 @@
       "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/crude_demo.png",
       "type": "clothes",
       "size": 5.32
+    },
+    "legacy_litspheres_CC0.zip": {
+      "descr": "The original litspheres for material setup phong etc in legacy MH1, they may still prove useful to some",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy_litspheres_CC0.zip",
+      "base": "common",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/lits_demo.png",
+      "type": "texture",
+      "size": 0.97
+    },
+    "legacy_superhero_poses_CC0.zip": {
+      "descr": "A collection of super hero poses for both genders made by the community",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy_superhero_poses_CC0.zip",
+      "base": "hm08",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/superhero_pose_demo.png",
+      "type": "poses",
+      "size": 0.48
+    },
+    "legacy-proxy_set_CC0.zip ": {
+      "descr": "A collection of super hero poses for both genders made by the community",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy-proxy_set_CC0.zip",
+      "base": "hm08",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/proxy_demo.png",
+      "type": "proxy",
+      "size": 4.72
     }
   }
 }
