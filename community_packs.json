@@ -80,7 +80,7 @@
       "type": "clothes",
       "size": 5.32
     },
-    "legacy_litspheres_CC0.zip": {
+    "legacy-litspheres_CC0.zip": {
       "descr": "The original litspheres for material setup phong etc in legacy MH1, they may still prove useful to some",
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy_litspheres_CC0.zip",
       "base": "common",
@@ -88,7 +88,7 @@
       "type": "texture",
       "size": 0.97
     },
-    "legacy_superhero_poses_CC0.zip": {
+    "legacy-superhero_poses_CC0.zip": {
       "descr": "A collection of super hero poses for both genders made by the community",
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy_superhero_poses_CC0.zip",
       "base": "hm08",
@@ -96,13 +96,37 @@
       "type": "poses",
       "size": 0.48
     },
-    "legacy-proxy_set_CC0.zip ": {
-      "descr": "A collection of super hero poses for both genders made by the community",
+    "legacy-proxy_set_CC0.zip": {
+      "descr": "A collection of super proxy bodies for both genders made by the community",
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy-proxy_set_CC0.zip",
       "base": "hm08",
       "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/proxy_demo.png",
       "type": "proxy",
       "size": 4.72
+    },
+    "legacy-community_hair_pack1_CC0.zip": {
+      "descr": "A collection of CC0 hair mesh made by the community",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy-community_hair_pack1_CC0.zip",
+      "base": "hm08",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/cc0hair1_demo.png",
+      "type": "hair",
+      "size": 124.0
+    },
+    "legacy-mh_system_expressions_CC0.zip": {
+      "descr": "The original makehuman expressions",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy-mh_system_expressions_CC0.zip",
+      "base": "hm08",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/mhsys_expressions_demo.png",
+      "type": "poses",
+      "size": 1.16
+    },
+    "legacy-mh_system_poses_CC0.zip": {
+      "descr": "The original makehuman poses",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy-mh_system_poses_CC0.zip",
+      "base": "hm08",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/system_pose-demo.png",
+      "type": "poses",
+      "size": .63
     }
   }
 }
