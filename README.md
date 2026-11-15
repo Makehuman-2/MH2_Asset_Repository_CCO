@@ -1,6 +1,8 @@
 # MH2_Asset_Repository
 A repository of Makehuman Community and official Assets. This shall serve as a library of asset packs in zip form for download. All assets in these packs are as listed CC0.
 
+**Please note that all asset packs in the zip downloads that are listed as legacy are original and unaltered. All packets listed as HM08 are updated to PBR shaders, checked for errors, and cleaned of broken and missing content, this work is ongoing.
+
 # The Contents Thusfar:
 
 - The Crude Kit for Builders acts as a starter templates kit.(Legacy and updated versions).
