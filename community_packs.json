@@ -117,7 +117,7 @@
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy-mh_system_expressions_CC0.zip",
       "base": "hm08",
       "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/mhsys_expressions_demo.png",
-      "type": "poses",
+      "type": "expressions",
       "size": 1.16
     },
     "legacy-mh_system_poses_CC0.zip": {
@@ -125,7 +125,7 @@
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy-mh_system_poses_CC0.zip",
       "base": "hm08",
       "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/system_pose-demo.png",
-      "type": ["poses","expressions"],
+      "type": "poses",
       "size": 0.63
     }
   }
