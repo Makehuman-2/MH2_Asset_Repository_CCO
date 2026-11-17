@@ -90,7 +90,7 @@
     },
     "legacy-superhero_poses_CC0.zip": {
       "descr": "A collection of super hero poses for both genders made by the community",
-      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy_superhero_poses_CC0.zip",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy-superhero_poses_CC0.zip",
       "base": "hm08",
       "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/superhero_pose_demo.png",
       "type": "poses",
@@ -127,6 +127,30 @@
       "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/system_pose-demo.png",
       "type": "poses",
       "size": 0.63
+    },
+    "hm08-RP_Viking_set_CC0.zip": {
+      "descr": "The Viking Gear Set for male models by Rehman Polanski (CC0 Release Archive) Updated to PBR Materials and fixed by Punkduck, ty!",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/hm08-RP_Viking_set_CC0.zip",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/viking_set_demo.png",
+      "base": "hm08",
+      "type": ["clothes","hair","eyes","eyebrows","skins"],   
+      "size": 20.8
+    },
+    "hm08-mh_system_CC0.zip": {
+      "descr": "The original Makehuman legacy system asset kit-This version is upgraded to PBR and fixed for errors by Punkduck, Ty",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/hm08-mh_system_CC0.zip",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/system_demo1.png",
+      "base": "hm08",
+      "type": ["clothes", "hair", "eyes", "eyebrows", "eyelashes", "skins", "teeth", "tongue", "rigs"],
+      "size": 387.0
+    },
+    "legacy-jewelery_pack_CC0.zip": {
+      "descr": "Makehuman legacy Jewellery Pack V1 CC0 version",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy-jewelery_pack_CC0.zip",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/cc0jewellery_demo.png",
+      "base": "hm08",
+      "type": "clothes",
+      "size": 9.13
     }
   }
 }
