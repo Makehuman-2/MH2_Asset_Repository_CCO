@@ -21,4 +21,5 @@ A repository of Makehuman Community and official Assets. This shall serve as a l
 - Legacy CC0 Expression Pack
 - Legacy System CC0 Pose Pack
 - The Legacy System Asset master pack in new updated form ie hm08.
-- 
+- Legacy Jewellery pack CC0
+- Legacy Targets pack 1-Fantasy CC0
