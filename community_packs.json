@@ -153,12 +153,20 @@
       "size": 9.13
     },
     "hm08-CC0_targets-fantasy.zip": {
-      "descr": "Makehuman legacy Jewellery Pack V1 CC0 version",
+      "descr": "Makehuman legacy Target Pack V1 Fantasy CC0 ",
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/hm08-CC0_targets-fantasy.zip",
       "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/morph_demo.png",
       "base": "hm08",
       "type": "targets",
       "size": 3.75
+    },
+    "hm08-CC0_targets-human.zip": {
+      "descr": "Makehuman legacy Targets Pack V2 Human standard CC0 ",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/hm08-CC0_targets-human.zip",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/morph_demo.png",
+      "base": "hm08",
+      "type": "targets",
+      "size": 3.45
     }
   }
 }
