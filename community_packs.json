@@ -167,6 +167,22 @@
       "base": "hm08",
       "type": "targets",
       "size": 3.45
+    },
+    "legacy_Glasses_CC0._pk1.zip": {
+      "descr": "Makehuman legacy Glasses CC0 pack 1",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy_Glasses_CC0._pk1.zip",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/cc0glasses_demo.png",
+      "base": "hm08",
+      "type": "clothes",
+      "size": 21.7
+    },
+    "legacy-CC0_Footwear_pk1.zip": {
+      "descr": "Makehuman legacy Shoe CC0 pack 1",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy-CC0_Footwear_pk1.zip",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/cc0_shoe_demo.png",
+      "base": "hm08",
+      "type": "clothes",
+      "size": 116.0
     }
   }
 }
