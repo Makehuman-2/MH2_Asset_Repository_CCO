@@ -23,3 +23,5 @@ A repository of Makehuman Community and official Assets. This shall serve as a l
 - The Legacy System Asset master pack in new updated form ie hm08.
 - Legacy Jewellery pack CC0
 - Legacy Targets pack 1-Fantasy CC0
+- Legacy Shoe pack 1 CC0
+- Legacy Glasses pack 1 CC0
