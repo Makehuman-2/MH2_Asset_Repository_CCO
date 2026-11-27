@@ -168,7 +168,7 @@
       "type": "targets",
       "size": 3.45
     },
-    "legacy_Glasses_CC0._pk1.zip": {
+    "legacy-Glasses_CC0._pk1.zip": {
       "descr": "Makehuman legacy Glasses CC0 pack 1",
       "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/legacy_Glasses_CC0._pk1.zip",
       "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/cc0glasses_demo.png",
@@ -183,6 +183,22 @@
       "base": "hm08",
       "type": "clothes",
       "size": 116.0
+    },
+    "hm08-Glasses_CC0._pk1.zip": {
+      "descr": "Makehuman legacy Glasses CC0 pack 1 updated to PBR materials and checked for errors",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/hm08-Glasses_CC0._pk1.zip",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/cc0glasses_demo.png",
+      "base": "hm08",
+      "type": "clothes",
+      "size": 21.8
+    },
+    "hm08-anatomically_correct_skins_CC0.zip": {
+      "descr": "Makehuman legacy Anatomically correct skins updated to PBR materials and inspected for defects",
+      "url": "Makehuman-2/MH2_Asset_Repository_CCO/releases/download/CC0/hm08-anatomically_correct_skins_CC0.zip",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CCO/blob/main/resource/an_correct_skin_demo.png",
+      "base": "hm08",
+      "type": "clothes",
+      "size": 138.0
     }
   }
 }
